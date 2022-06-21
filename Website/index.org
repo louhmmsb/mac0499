@@ -2,4 +2,9 @@
 #+AUTHOR: Lourenço Henrique Moinheiro Martins Sborz Bogo
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
-* Cronograma
+* Projeto
+Aqui estão os links para o projeto do TCC em html puro, html com css igual ao do site e para pdf, respectivamente.
+- [[file:projeto.html][Projeto em HTML]] 
+- [[file:projetocss.html][Projeto em HTML só que menos feio]]
+- [[file:TCC.pdf][Projeto em PDF]] 
+
